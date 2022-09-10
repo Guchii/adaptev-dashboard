@@ -1,0 +1,501 @@
+,Location,No_of_views
+0,Himachal Pradesh,799
+1,Bihar,685
+2,Kerala,33
+3,Tamil Nadu,981
+4,Bihar,587
+5,Goa,770
+6,Odisha,980
+7,Goa,486
+8,Chhattisgarh,989
+9,Punjab,367
+10,Mizoram,649
+11,Punjab,348
+12,Madhya Pradesh,871
+13,Puducherry,620
+14,Lakshadweep,977
+15,Himachal Pradesh,729
+16,Uttar Pradesh,13
+17,Goa,139
+18,Punjab,894
+19,Karnataka,323
+20,Puducherry,645
+21,Telangana,97
+22,Telangana,543
+23,Uttar Pradesh,948
+24,Puducherry,583
+25,Jharkhand,271
+26,Bihar,610
+27,Arunachal Pradesh,356
+28,Odisha,283
+29,Uttarakhand,331
+30,Tripura,543
+31,Karnataka,212
+32,Tamil Nadu,60
+33,Uttarakhand,132
+34,Chhattisgarh,756
+35,Bihar,191
+36,Odisha,156
+37,Chhattisgarh,903
+38,Jharkhand,821
+39,Madhya Pradesh,847
+40,Puducherry,472
+41,Madhya Pradesh,960
+42,Nagaland,790
+43,Uttar Pradesh,282
+44,Haryana,978
+45,Uttar Pradesh,778
+46,Rajasthan,116
+47,Madhya Pradesh,639
+48,Himachal Pradesh,977
+49,Gujarat,144
+50,Odisha,623
+51,Goa,166
+52,Himachal Pradesh,953
+53,West Bengal,186
+54,Madhya Pradesh,78
+55,Uttar Pradesh,817
+56,Uttar Pradesh,796
+57,Daman and Diu,493
+58,Maharashtra,475
+59,Kerala,546
+60,Tripura,59
+61,Chhattisgarh,818
+62,Madhya Pradesh,564
+63,Chhattisgarh,104
+64,Jharkhand,43
+65,Jharkhand,708
+66,Lakshadweep,143
+67,Puducherry,44
+68,Arunachal Pradesh,840
+69,Chandigarh,847
+70,Himachal Pradesh,53
+71,Haryana,149
+72,Odisha,596
+73,Uttar Pradesh,989
+74,Puducherry,471
+75,Jharkhand,305
+76,Madhya Pradesh,492
+77,Tripura,455
+78,Lakshadweep,961
+79,Nagaland,759
+80,Rajasthan,134
+81,Haryana,102
+82,Assam,302
+83,Goa,666
+84,Odisha,93
+85,Madhya Pradesh,472
+86,Nagaland,495
+87,Assam,384
+88,Goa,342
+89,Madhya Pradesh,883
+90,Karnataka,186
+91,Goa,100
+92,Karnataka,924
+93,Assam,731
+94,Uttar Pradesh,667
+95,Chandigarh,380
+96,Jharkhand,484
+97,Daman and Diu,564
+98,Chandigarh,184
+99,Daman and Diu,757
+100,Madhya Pradesh,829
+101,Tamil Nadu,148
+102,Puducherry,475
+103,Madhya Pradesh,856
+104,Andhra Pradesh,266
+105,Himachal Pradesh,468
+106,Arunachal Pradesh,529
+107,Odisha,258
+108,Himachal Pradesh,530
+109,Kerala,994
+110,Manipur,214
+111,Gujarat,200
+112,Chhattisgarh,679
+113,Bihar,555
+114,Sikkim,860
+115,Bihar,525
+116,Assam,0
+117,Sikkim,645
+118,Meghalaya,666
+119,Himachal Pradesh,30
+120,Jharkhand,667
+121,Uttar Pradesh,934
+122,Tamil Nadu,50
+123,Uttarakhand,272
+124,Mizoram,636
+125,Telangana,814
+126,Jharkhand,184
+127,Daman and Diu,211
+128,Punjab,806
+129,West Bengal,951
+130,Uttarakhand,513
+131,Assam,657
+132,Kerala,787
+133,Uttar Pradesh,300
+134,Punjab,904
+135,Meghalaya,362
+136,West Bengal,620
+137,West Bengal,227
+138,Manipur,218
+139,Tripura,3
+140,Tripura,540
+141,Tripura,165
+142,Telangana,674
+143,Tamil Nadu,828
+144,Karnataka,18
+145,Uttar Pradesh,999
+146,West Bengal,874
+147,Karnataka,933
+148,Uttar Pradesh,578
+149,Bihar,398
+150,Daman and Diu,474
+151,Tamil Nadu,619
+152,Uttar Pradesh,215
+153,Telangana,670
+154,Tamil Nadu,518
+155,Uttar Pradesh,487
+156,Himachal Pradesh,724
+157,Rajasthan,520
+158,Mizoram,859
+159,Punjab,608
+160,Arunachal Pradesh,998
+161,Kerala,368
+162,Manipur,904
+163,Assam,366
+164,Uttar Pradesh,631
+165,Chhattisgarh,622
+166,Mizoram,21
+167,Odisha,591
+168,Punjab,154
+169,Rajasthan,262
+170,Punjab,435
+171,Uttar Pradesh,62
+172,Meghalaya,361
+173,Chhattisgarh,853
+174,Haryana,875
+175,Goa,731
+176,Tripura,63
+177,Gujarat,792
+178,Sikkim,365
+179,Maharashtra,806
+180,Nagaland,878
+181,Uttarakhand,652
+182,Gujarat,276
+183,Punjab,628
+184,Uttarakhand,343
+185,Tripura,482
+186,Chandigarh,455
+187,Uttarakhand,438
+188,Uttar Pradesh,307
+189,Telangana,929
+190,Uttar Pradesh,500
+191,Himachal Pradesh,270
+192,Arunachal Pradesh,426
+193,Madhya Pradesh,122
+194,Chandigarh,21
+195,Manipur,25
+196,Uttar Pradesh,148
+197,Odisha,956
+198,Jharkhand,781
+199,Maharashtra,133
+200,West Bengal,654
+201,Telangana,253
+202,Madhya Pradesh,567
+203,Madhya Pradesh,80
+204,Daman and Diu,566
+205,Madhya Pradesh,511
+206,Puducherry,542
+207,Arunachal Pradesh,875
+208,Himachal Pradesh,805
+209,Himachal Pradesh,925
+210,Tamil Nadu,700
+211,Telangana,173
+212,Madhya Pradesh,35
+213,Lakshadweep,83
+214,Madhya Pradesh,753
+215,Madhya Pradesh,35
+216,Bihar,212
+217,Tamil Nadu,117
+218,Nagaland,672
+219,Punjab,492
+220,Chandigarh,926
+221,Maharashtra,219
+222,Meghalaya,552
+223,Assam,248
+224,Goa,954
+225,Punjab,769
+226,Sikkim,497
+227,Uttar Pradesh,6
+228,Maharashtra,119
+229,Gujarat,548
+230,Goa,648
+231,Rajasthan,716
+232,Uttar Pradesh,643
+233,West Bengal,0
+234,Tamil Nadu,258
+235,Chhattisgarh,625
+236,Sikkim,708
+237,Telangana,624
+238,Chandigarh,438
+239,Sikkim,175
+240,Assam,31
+241,Madhya Pradesh,643
+242,Punjab,273
+243,Madhya Pradesh,151
+244,Arunachal Pradesh,499
+245,Daman and Diu,47
+246,Madhya Pradesh,639
+247,Madhya Pradesh,321
+248,Odisha,729
+249,Daman and Diu,240
+250,Haryana,501
+251,Puducherry,815
+252,Daman and Diu,45
+253,Rajasthan,161
+254,Maharashtra,534
+255,Kerala,893
+256,Uttar Pradesh,164
+257,Goa,571
+258,Meghalaya,785
+259,Gujarat,372
+260,Madhya Pradesh,783
+261,Uttarakhand,276
+262,Telangana,726
+263,Nagaland,908
+264,Chhattisgarh,464
+265,Arunachal Pradesh,25
+266,West Bengal,13
+267,West Bengal,179
+268,Uttarakhand,682
+269,Odisha,856
+270,Karnataka,616
+271,Himachal Pradesh,974
+272,Chhattisgarh,483
+273,Daman and Diu,81
+274,West Bengal,159
+275,Manipur,593
+276,Kerala,245
+277,Uttar Pradesh,173
+278,Assam,458
+279,Manipur,701
+280,Madhya Pradesh,746
+281,Meghalaya,366
+282,Tripura,818
+283,Gujarat,740
+284,Telangana,686
+285,Madhya Pradesh,529
+286,Rajasthan,574
+287,Tripura,579
+288,Punjab,712
+289,Lakshadweep,421
+290,Arunachal Pradesh,847
+291,Uttarakhand,373
+292,Daman and Diu,476
+293,Karnataka,968
+294,Mizoram,459
+295,Meghalaya,469
+296,Uttar Pradesh,800
+297,Madhya Pradesh,978
+298,Jharkhand,940
+299,Lakshadweep,842
+300,Uttarakhand,270
+301,Haryana,477
+302,Himachal Pradesh,344
+303,West Bengal,531
+304,Puducherry,960
+305,Meghalaya,52
+306,Uttar Pradesh,473
+307,Mizoram,948
+308,Daman and Diu,259
+309,Lakshadweep,801
+310,Uttar Pradesh,500
+311,Meghalaya,0
+312,Madhya Pradesh,159
+313,Telangana,555
+314,Mizoram,641
+315,Manipur,148
+316,Uttar Pradesh,485
+317,Andhra Pradesh,132
+318,Madhya Pradesh,134
+319,Mizoram,767
+320,Uttar Pradesh,973
+321,Karnataka,590
+322,Uttar Pradesh,37
+323,Puducherry,412
+324,Daman and Diu,518
+325,Karnataka,696
+326,Daman and Diu,619
+327,Sikkim,107
+328,Bihar,727
+329,Punjab,695
+330,Manipur,469
+331,Uttarakhand,412
+332,Madhya Pradesh,500
+333,Uttar Pradesh,271
+334,Meghalaya,184
+335,Telangana,414
+336,Chandigarh,314
+337,Assam,917
+338,Jharkhand,525
+339,Madhya Pradesh,326
+340,Nagaland,968
+341,Meghalaya,263
+342,Maharashtra,594
+343,Arunachal Pradesh,639
+344,Jharkhand,790
+345,Uttar Pradesh,412
+346,Assam,259
+347,Madhya Pradesh,286
+348,Telangana,589
+349,Bihar,807
+350,Madhya Pradesh,413
+351,Arunachal Pradesh,753
+352,Karnataka,897
+353,Mizoram,664
+354,Chandigarh,856
+355,Gujarat,133
+356,Chandigarh,965
+357,Himachal Pradesh,672
+358,Andhra Pradesh,928
+359,Uttar Pradesh,951
+360,Kerala,714
+361,Odisha,810
+362,Madhya Pradesh,268
+363,Tamil Nadu,37
+364,Daman and Diu,26
+365,Tripura,697
+366,Uttar Pradesh,937
+367,Karnataka,896
+368,Tamil Nadu,643
+369,Andhra Pradesh,581
+370,Manipur,105
+371,West Bengal,398
+372,Arunachal Pradesh,468
+373,Karnataka,572
+374,Puducherry,428
+375,Uttar Pradesh,54
+376,Uttar Pradesh,141
+377,Meghalaya,681
+378,Rajasthan,196
+379,Puducherry,359
+380,Telangana,979
+381,Manipur,641
+382,Odisha,750
+383,Haryana,128
+384,Chhattisgarh,25
+385,Manipur,971
+386,Meghalaya,775
+387,Himachal Pradesh,731
+388,Assam,783
+389,Kerala,259
+390,Mizoram,752
+391,Rajasthan,233
+392,Rajasthan,116
+393,Manipur,445
+394,Jharkhand,495
+395,Gujarat,777
+396,Tripura,132
+397,Rajasthan,26
+398,Andhra Pradesh,216
+399,Uttar Pradesh,843
+400,Chandigarh,540
+401,Himachal Pradesh,856
+402,Rajasthan,850
+403,West Bengal,443
+404,Tamil Nadu,294
+405,Rajasthan,785
+406,Bihar,984
+407,Madhya Pradesh,951
+408,Assam,134
+409,Jharkhand,90
+410,Bihar,105
+411,Chandigarh,237
+412,Puducherry,210
+413,Telangana,163
+414,Haryana,918
+415,Kerala,186
+416,Punjab,550
+417,Maharashtra,507
+418,Uttar Pradesh,465
+419,Telangana,36
+420,Manipur,76
+421,Haryana,295
+422,Madhya Pradesh,935
+423,Chandigarh,111
+424,Odisha,877
+425,Uttarakhand,669
+426,Assam,424
+427,Bihar,790
+428,Tamil Nadu,609
+429,Rajasthan,375
+430,Telangana,478
+431,Andhra Pradesh,754
+432,Puducherry,337
+433,Assam,416
+434,Rajasthan,778
+435,Uttar Pradesh,802
+436,Uttar Pradesh,127
+437,Bihar,654
+438,Arunachal Pradesh,138
+439,Madhya Pradesh,790
+440,Sikkim,527
+441,Telangana,336
+442,Sikkim,34
+443,Himachal Pradesh,30
+444,Kerala,274
+445,Himachal Pradesh,745
+446,Himachal Pradesh,89
+447,Nagaland,943
+448,Puducherry,949
+449,Uttar Pradesh,295
+450,Kerala,981
+451,Maharashtra,768
+452,Telangana,422
+453,Chhattisgarh,193
+454,Gujarat,152
+455,Madhya Pradesh,169
+456,Andhra Pradesh,295
+457,Meghalaya,730
+458,Tripura,936
+459,Madhya Pradesh,991
+460,Uttar Pradesh,96
+461,Assam,549
+462,Sikkim,451
+463,Karnataka,678
+464,Telangana,715
+465,Gujarat,839
+466,Tripura,135
+467,Uttar Pradesh,60
+468,Haryana,666
+469,Manipur,676
+470,Maharashtra,74
+471,Mizoram,30
+472,Sikkim,142
+473,Chhattisgarh,983
+474,Maharashtra,367
+475,Sikkim,840
+476,West Bengal,878
+477,Uttar Pradesh,246
+478,Madhya Pradesh,432
+479,Punjab,297
+480,Gujarat,271
+481,West Bengal,948
+482,Madhya Pradesh,698
+483,Uttar Pradesh,52
+484,West Bengal,829
+485,Punjab,783
+486,Goa,958
+487,Arunachal Pradesh,594
+488,Uttar Pradesh,34
+489,Puducherry,262
+490,Himachal Pradesh,537
+491,Goa,534
+492,Karnataka,391
+493,Tripura,837
+494,Madhya Pradesh,102
+495,Himachal Pradesh,524
+496,Nagaland,308
+497,Madhya Pradesh,554
+498,Madhya Pradesh,903
+499,Chhattisgarh,908

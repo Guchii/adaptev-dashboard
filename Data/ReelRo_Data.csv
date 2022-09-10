@@ -1,0 +1,501 @@
+Date,Category,Gender,Location,Language,Video Duration,Time most users are viewing,Age_Group
+03-09-2022,Jewelry,Male,Himachal Pradesh,Gujarati,22,21,30-50
+7/19/2022,Movies,Female,Bihar,Maithili,16,20,30-50
+6/24/2022,Health,Female,Kerala,Konkani,13,15,18-30
+04-08-2022,Movies,Female,Tamil Nadu,Konkani,27,27,30-50
+1/28/2022,Games,Female,Bihar,Dogri,14,14,18-30
+4/27/2022,Garden,Female,Goa,Malayalam,27,19,18-30
+02-03-2022,Jewelry,Female,Odisha,Malayalam,24,24,Below 18
+03-01-2022,Electronics,Female,Goa,Urdu,19,0,18-30
+10-08-2022,Kids,Male,Chhattisgarh,Sindhi,16,23,18-30
+5/25/2022,Baby,Male,Punjab,Tamil,25,16,Below 18
+12/16/2022,Grocery,Female,Mizoram,Oriya,21,13,18-30
+11/30/2022,Computers,Male,Punjab,Nepali,8,20,30-50
+11/14/2022,Beauty,Female,Dadra and Nagar Haveli,Santali,30,0,30-50
+10-08-2022,Games,Male,Puducherry,Kannada,28,29,30-50
+11-03-2022,Health,Male,Lakshadweep,Nepali,24,3,30-50
+6/19/2022,Kids,Male,Himachal Pradesh,Gujarati,10,12,30-50
+6/15/2022,Garden,Female,Jammu and Kashmir,Kashmiri,10,21,18-30
+06-02-2022,Baby,Male,Goa,Bodo,7,14,30-50
+12/26/2022,Tools,Female,Punjab,Sindhi,17,25,18-30
+5/18/2022,Clothing,Male,Karnataka,English,29,28,18-30
+2/16/2022,Electronics,Male,Puducherry,Sindhi,9,28,18-30
+03-04-2022,Automotive,Male,Telangana,Kashmiri,13,16,30-50
+2/23/2022,Movies,Male,Telangana,Assamese,7,28,18-30
+3/23/2022,Kids,Female,Andaman and Nicobar,Kannada,18,7,18-30
+05-12-2022,Music,Female,Puducherry,Telugu,13,30,18-30
+04-01-2022,Grocery,Male,Jharkhand,Oriya,8,13,18-30
+7/23/2022,Garden,Male,Bihar,English,27,4,18-30
+4/21/2022,Electronics,Male,Arunachal Pradesh,Tamil,5,17,Below 18
+11/22/2022,Computers,Male,Odisha,Gujarati,6,10,18-30
+10/21/2022,Sports,Female,Uttarakhand,English,21,21,30-50
+12-05-2022,Outdoors,Female,Tripura,Bangla,10,19,18-30
+11-02-2022,Baby,Female,Karnataka,Malayalam,5,17,18-30
+3/29/2022,Toys,Male,Tamil Nadu,Nepali,9,0,30-50
+1/16/2022,Beauty,Male,Uttarakhand,Bodo,8,6,18-30
+11-05-2022,Sports,Female,Chhattisgarh,English,17,26,30-50
+09-08-2022,Home,Male,Bihar,Telugu,6,5,30-50
+4/27/2022,Electronics,Male,Odisha,English,22,17,30-50
+7/17/2022,Sports,Male,Chhattisgarh,Santali,29,5,18-30
+6/18/2022,Electronics,Female,Jharkhand,Hindi,30,12,18-30
+11/29/2022,Industrial,Female,Delhi,Marathi,27,2,30-50
+10/14/2022,Toys,Male,Puducherry,Nepali,16,6,30-50
+6/18/2022,Beauty,Female,Madhya Pradesh,Nepali,23,16,18-30
+10-08-2022,Home,Female,Nagaland,English,11,3,30-50
+08-11-2022,Electronics,Female,Andaman and Nicobar,Kannada,18,5,18-30
+2/22/2022,Automotive,Male,Haryana,Marathi,23,1,30-50
+4/24/2022,Garden,Female,Jammu and Kashmir,Maithili,10,27,18-30
+06-06-2022,Automotive,Male,Rajasthan,Sindhi,20,28,18-30
+06-07-2022,Jewelry,Male,Delhi,Konkani,12,28,30-50
+2/13/2022,Kids,Female,Himachal Pradesh,Bangla,15,7,18-30
+08-08-2022,Sports,Male,Gujarat,Kannada,6,22,18-30
+9/22/2022,Clothing,Female,Odisha,Marathi,24,15,18-30
+11-01-2022,Outdoors,Female,Goa,Bangla,20,5,30-50
+6/29/2022,Sports,Female,Himachal Pradesh,Dogri,17,5,18-30
+04-06-2022,Books,Male,West Bengal,Tamil,27,1,18-30
+4/15/2022,Movies,Female,Delhi,Assamese,27,7,18-30
+06-12-2022,Music,Male,Uttar Pradesh,Sindhi,13,22,30-50
+5/25/2022,Clothing,Male,Uttar Pradesh,Gujarati,17,30,30-50
+01-08-2022,Electronics,Male,Daman and Diu,Punjabi,7,14,18-30
+1/25/2022,Jewelry,Female,Maharashtra,Kannada,24,2,18-30
+10/25/2022,Kids,Male,Kerala,Malayalam,19,0,30-50
+12/17/2022,Computers,Female,Tripura,Kannada,19,8,30-50
+6/27/2022,Games,Male,Chhattisgarh,Kashmiri,25,2,18-30
+09-11-2022,Tools,Male,Delhi,Telugu,29,1,Below 18
+7/28/2022,Grocery,Female,Chhattisgarh,Bangla,9,5,18-30
+3/28/2022,Baby,Female,Jharkhand,Maithili,30,3,18-30
+8/24/2022,Movies,Female,Jharkhand,Bodo,5,10,18-30
+11-10-2022,Shoes,Male,Lakshadweep,Maithili,15,11,Below 18
+7/18/2022,Clothing,Male,Puducherry,Dogri,18,5,18-30
+02-12-2022,Music,Female,Arunachal Pradesh,Oriya,28,2,18-30
+5/16/2022,Toys,Male,Chandigarh,Santali,29,5,18-30
+1/18/2022,Grocery,Male,Himachal Pradesh,English,30,14,30-50
+04-08-2022,Health,Female,Haryana,Telugu,14,10,18-30
+07-03-2022,Jewelry,Male,Odisha,Santali,19,26,30-50
+11-09-2022,Automotive,Female,Andaman and Nicobar,Tamil,14,25,30-50
+1/24/2022,Jewelry,Male,Puducherry,Assamese,7,23,18-30
+1/17/2022,Books,Female,Jharkhand,Telugu,15,11,18-30
+11/20/2022,Baby,Male,Madhya Pradesh,Malayalam,26,6,18-30
+8/26/2022,Beauty,Male,Tripura,Nepali,21,4,18-30
+1/18/2022,Clothing,Female,Lakshadweep,Manipuri,25,15,30-50
+6/22/2022,Baby,Female,Nagaland,Kannada,8,20,18-30
+02-05-2022,Grocery,Female,Rajasthan,Tamil,30,1,Below 18
+1/26/2022,Baby,Male,Haryana,Punjabi,13,13,30-50
+06-04-2022,Games,Female,Assam,Gujarati,12,1,30-50
+4/16/2022,Health,Male,Goa,Urdu,7,25,30-50
+7/13/2022,Books,Female,Odisha,Urdu,25,24,Below 18
+10/17/2022,Toys,Male,Delhi,Sindhi,29,24,18-30
+05-05-2022,Baby,Female,Nagaland,Marathi,19,14,30-50
+04-08-2022,Industrial,Male,Assam,Manipuri,25,3,30-50
+12/26/2022,Electronics,Female,Goa,Santali,22,17,18-30
+4/13/2022,Toys,Female,Delhi,Punjabi,25,20,18-30
+01-07-2022,Electronics,Female,Karnataka,Oriya,13,10,18-30
+12/22/2022,Health,Female,Goa,Oriya,6,19,18-30
+11/13/2022,Shoes,Female,Karnataka,Telugu,8,24,30-50
+9/21/2022,Kids,Male,Assam,Kashmiri,9,7,18-30
+8/31/2022,Industrial,Female,Andaman and Nicobar,Maithili,17,30,18-30
+7/21/2022,Electronics,Female,Chandigarh,Telugu,9,3,18-30
+01-11-2022,Tools,Male,Jharkhand,Hindi,20,16,18-30
+04-08-2022,Grocery,Female,Daman and Diu,Santali,20,4,30-50
+12/24/2022,Electronics,Female,Chandigarh,Tamil,28,15,30-50
+9/17/2022,Computers,Male,Daman and Diu,Bangla,12,11,18-30
+10/19/2022,Toys,Female,Delhi,Nepali,30,10,18-30
+4/20/2022,Grocery,Male,Tamil Nadu,Kashmiri,29,20,18-30
+12-03-2022,Games,Female,Puducherry,Punjabi,21,20,18-30
+08-10-2022,Electronics,Male,Madhya Pradesh,Oriya,27,3,30-50
+10-08-2022,Computers,Male,Andhra Pradesh,Nepali,18,22,30-50
+12/28/2022,Industrial,Male,Himachal Pradesh,Telugu,23,22,30-50
+05-01-2022,Toys,Female,Arunachal Pradesh,Marathi,28,27,18-30
+4/25/2022,Automotive,Male,Odisha,Hindi,28,9,30-50
+9/23/2022,Computers,Female,Himachal Pradesh,Urdu,20,9,18-30
+05-08-2022,Sports,Male,Kerala,Tamil,17,12,30-50
+02-06-2022,Shoes,Male,Manipur,Tamil,24,18,30-50
+10-07-2022,Garden,Female,Gujarat,Oriya,13,18,30-50
+12-11-2022,Industrial,Female,Chhattisgarh,Oriya,29,2,18-30
+10-08-2022,Jewelry,Female,Bihar,Manipuri,26,6,18-30
+8/28/2022,Industrial,Female,Sikkim,Konkani,9,29,30-50
+10/18/2022,Clothing,Female,Bihar,Konkani,25,7,30-50
+06-09-2022,Outdoors,Female,Assam,Telugu,7,9,18-30
+07-07-2022,Sports,Male,Sikkim,Nepali,27,3,18-30
+5/18/2022,Jewelry,Male,Meghalaya,Assamese,24,18,Below 18
+09-07-2022,Computers,Female,Himachal Pradesh,Kashmiri,29,23,30-50
+5/16/2022,Automotive,Male,Jharkhand,Dogri,30,11,Below 18
+08-06-2022,Kids,Male,Uttar Pradesh,Assamese,23,10,Below 18
+10-08-2022,Shoes,Female,Tamil Nadu,Sindhi,16,1,Below 18
+11/27/2022,Kids,Male,Uttarakhand,Dogri,14,11,30-50
+07-12-2022,Books,Male,Mizoram,Hindi,25,28,30-50
+12/22/2022,Kids,Female,Telangana,Maithili,12,15,18-30
+5/30/2022,Jewelry,Male,Jharkhand,Bangla,7,30,30-50
+3/29/2022,Grocery,Female,Daman and Diu,Bangla,7,17,18-30
+03-07-2022,Clothing,Male,Punjab,Gujarati,27,15,18-30
+06-02-2022,Sports,Male,West Bengal,Gujarati,22,11,30-50
+4/30/2022,Books,Male,Uttarakhand,Urdu,18,8,18-30
+05-01-2022,Computers,Male,Assam,Bodo,17,15,30-50
+06-09-2022,Outdoors,Female,Kerala,Oriya,8,21,18-30
+10/19/2022,Automotive,Male,Uttar Pradesh,Maithili,27,21,18-30
+01-06-2022,Shoes,Female,Punjab,Bodo,19,23,Below 18
+01-12-2022,Sports,Male,Meghalaya,Dogri,12,19,18-30
+4/28/2022,Home,Male,West Bengal,Hindi,28,5,30-50
+8/19/2022,Health,Male,West Bengal,Maithili,21,9,18-30
+8/26/2022,Music,Female,Manipur,Sindhi,11,13,Below 18
+9/24/2022,Movies,Female,Tripura,Malayalam,11,23,18-30
+7/25/2022,Outdoors,Female,Tripura,Konkani,14,12,18-30
+2/13/2022,Books,Male,Tripura,Konkani,15,20,30-50
+12/24/2022,Kids,Male,Telangana,Malayalam,22,10,30-50
+1/27/2022,Kids,Male,Tamil Nadu,Santali,11,11,Below 18
+2/15/2022,Industrial,Female,Karnataka,Assamese,13,5,30-50
+5/17/2022,Kids,Male,Uttar Pradesh,Manipuri,22,6,18-30
+3/13/2022,Outdoors,Male,West Bengal,Dogri,6,28,Below 18
+12-03-2022,Movies,Male,Karnataka,Santali,6,19,18-30
+5/21/2022,Books,Male,Jammu and Kashmir,Marathi,22,21,Below 18
+7/16/2022,Garden,Male,Bihar,Kashmiri,24,8,18-30
+01-01-2022,Baby,Male,Daman and Diu,Nepali,6,29,30-50
+12-02-2022,Automotive,Male,Tamil Nadu,Nepali,22,19,Below 18
+8/13/2022,Tools,Male,Uttar Pradesh,Dogri,20,11,18-30
+03-01-2022,Shoes,Female,Telangana,Konkani,17,6,18-30
+12/25/2022,Books,Female,Tamil Nadu,Maithili,11,29,30-50
+10/19/2022,Shoes,Male,Jammu and Kashmir,Urdu,23,12,30-50
+11/13/2022,Music,Male,Himachal Pradesh,Konkani,26,1,18-30
+3/24/2022,Kids,Female,Rajasthan,Bodo,12,28,18-30
+6/24/2022,Garden,Female,Mizoram,Urdu,6,29,18-30
+4/18/2022,Computers,Female,Punjab,Oriya,16,20,30-50
+11/29/2022,Baby,Male,Arunachal Pradesh,Maithili,6,21,30-50
+8/21/2022,Kids,Male,Kerala,Oriya,27,9,30-50
+4/16/2022,Home,Female,Manipur,Urdu,19,5,30-50
+12/14/2022,Movies,Male,Assam,Gujarati,28,19,30-50
+8/25/2022,Baby,Female,Uttar Pradesh,Telugu,8,18,Below 18
+4/30/2022,Baby,Male,Chhattisgarh,Oriya,17,1,30-50
+10/21/2022,Baby,Male,Mizoram,Assamese,6,10,30-50
+03-05-2022,Clothing,Female,Odisha,Maithili,9,22,30-50
+11/19/2022,Computers,Female,Punjab,Telugu,20,24,18-30
+07-12-2022,Games,Female,Rajasthan,Assamese,27,3,18-30
+06-02-2022,Outdoors,Male,Punjab,Marathi,17,26,18-30
+10/29/2022,Outdoors,Female,Jammu and Kashmir,Kashmiri,24,6,30-50
+5/14/2022,Grocery,Female,Meghalaya,Sindhi,19,28,18-30
+11-09-2022,Outdoors,Male,Chhattisgarh,Oriya,12,13,18-30
+1/27/2022,Jewelry,Male,Haryana,Kashmiri,18,28,30-50
+12-07-2022,Kids,Female,Goa,Dogri,23,20,Below 18
+8/19/2022,Industrial,Female,Tripura,Bangla,9,16,18-30
+09-08-2022,Games,Male,Gujarat,Bangla,30,24,30-50
+7/31/2022,Music,Female,Sikkim,Marathi,6,22,18-30
+07-04-2022,Automotive,Male,Maharashtra,English,22,1,18-30
+10/18/2022,Health,Male,Nagaland,Marathi,10,27,Below 18
+02-03-2022,Books,Male,Uttarakhand,Malayalam,29,30,30-50
+10-05-2022,Baby,Female,Gujarat,Santali,22,16,Below 18
+3/25/2022,Sports,Male,Punjab,Tamil,25,4,18-30
+6/24/2022,Clothing,Female,Uttarakhand,Bangla,8,30,18-30
+02-02-2022,Computers,Male,Tripura,Sindhi,8,11,30-50
+6/24/2022,Home,Male,Chandigarh,Konkani,13,7,30-50
+8/17/2022,Automotive,Male,Uttarakhand,Nepali,22,6,30-50
+1/14/2022,Music,Female,Uttar Pradesh,Dogri,28,10,30-50
+4/18/2022,Toys,Female,Telangana,Konkani,11,16,18-30
+08-10-2022,Music,Female,Andaman and Nicobar,Telugu,17,11,30-50
+3/24/2022,Games,Male,Himachal Pradesh,Malayalam,8,16,30-50
+3/20/2022,Games,Male,Arunachal Pradesh,Kannada,30,28,18-30
+06-03-2022,Shoes,Female,Madhya Pradesh,Assamese,21,16,18-30
+03-12-2022,Industrial,Female,Chandigarh,Manipuri,30,19,18-30
+03-09-2022,Music,Female,Manipur,Punjabi,13,24,18-30
+1/19/2022,Tools,Female,Andaman and Nicobar,Nepali,26,6,18-30
+5/22/2022,Shoes,Male,Odisha,Malayalam,7,7,18-30
+6/22/2022,Grocery,Male,Jharkhand,Sindhi,15,28,30-50
+7/29/2022,Health,Male,Maharashtra,Urdu,19,20,Below 18
+08-07-2022,Baby,Female,West Bengal,Marathi,16,0,30-50
+06-01-2022,Games,Male,Telangana,Dogri,23,7,18-30
+05-02-2022,Tools,Female,Delhi,Santali,30,30,18-30
+12-03-2022,Shoes,Male,Dadra and Nagar Haveli,Kannada,12,14,30-50
+7/22/2022,Garden,Female,Daman and Diu,Punjabi,10,11,30-50
+08-02-2022,Home,Male,Madhya Pradesh,Dogri,8,5,30-50
+01-06-2022,Tools,Male,Puducherry,Maithili,23,3,18-30
+2/16/2022,Clothing,Female,Arunachal Pradesh,Kashmiri,27,0,18-30
+3/18/2022,Health,Male,Himachal Pradesh,Sindhi,5,5,Below 18
+2/20/2022,Games,Female,Himachal Pradesh,Nepali,25,12,30-50
+12/17/2022,Clothing,Male,Tamil Nadu,Maithili,7,13,18-30
+6/24/2022,Jewelry,Male,Telangana,Santali,21,0,30-50
+9/23/2022,Health,Male,Madhya Pradesh,Bodo,30,16,30-50
+6/29/2022,Kids,Female,Lakshadweep,Maithili,24,15,18-30
+10-12-2022,Music,Male,Madhya Pradesh,Bangla,21,5,18-30
+5/24/2022,Industrial,Male,Delhi,Bangla,16,24,30-50
+11/17/2022,Music,Male,Bihar,English,6,2,30-50
+3/21/2022,Computers,Male,Tamil Nadu,Assamese,8,27,30-50
+7/17/2022,Toys,Female,Nagaland,Telugu,26,10,30-50
+11/22/2022,Movies,Male,Punjab,Maithili,29,8,18-30
+09-09-2022,Computers,Female,Chandigarh,Nepali,11,5,18-30
+06-10-2022,Industrial,Female,Maharashtra,Oriya,26,10,18-30
+6/30/2022,Grocery,Male,Meghalaya,Urdu,23,27,30-50
+4/29/2022,Garden,Female,Assam,Konkani,17,24,30-50
+10-04-2022,Electronics,Female,Goa,Konkani,18,7,Below 18
+4/18/2022,Books,Male,Punjab,Bodo,19,8,Below 18
+05-07-2022,Beauty,Male,Sikkim,Kashmiri,18,3,Below 18
+08-02-2022,Shoes,Male,Uttar Pradesh,Konkani,23,14,30-50
+7/13/2022,Electronics,Female,Maharashtra,Dogri,19,24,18-30
+12/20/2022,Baby,Male,Gujarat,Hindi,30,30,30-50
+5/23/2022,Kids,Male,Goa,English,21,30,30-50
+03-02-2022,Health,Female,Rajasthan,Bodo,29,9,30-50
+2/21/2022,Beauty,Female,Jammu and Kashmir,Hindi,6,4,30-50
+03-10-2022,Movies,Male,West Bengal,Oriya,20,4,30-50
+09-11-2022,Computers,Male,Tamil Nadu,Gujarati,24,17,30-50
+02-12-2022,Jewelry,Male,Chhattisgarh,Punjabi,10,15,18-30
+10/22/2022,Games,Male,Sikkim,Manipuri,18,21,30-50
+02-05-2022,Garden,Male,Telangana,Tamil,10,27,30-50
+10/14/2022,Baby,Female,Chandigarh,Kashmiri,18,29,18-30
+5/18/2022,Grocery,Male,Sikkim,Tamil,15,3,30-50
+09-01-2022,Outdoors,Male,Assam,Urdu,18,29,30-50
+08-09-2022,Beauty,Male,Dadra and Nagar Haveli,Konkani,17,24,18-30
+1/21/2022,Jewelry,Female,Punjab,Manipuri,18,13,30-50
+09-05-2022,Grocery,Male,Dadra and Nagar Haveli,Tamil,26,20,18-30
+8/28/2022,Kids,Female,Arunachal Pradesh,Marathi,15,22,18-30
+01-02-2022,Movies,Female,Daman and Diu,Gujarati,12,2,18-30
+03-10-2022,Electronics,Female,Madhya Pradesh,Bangla,12,16,30-50
+3/25/2022,Music,Male,Madhya Pradesh,Marathi,14,25,30-50
+5/26/2022,Industrial,Female,Odisha,Assamese,30,17,18-30
+07-06-2022,Garden,Male,Daman and Diu,Bangla,8,20,Below 18
+7/27/2022,Jewelry,Male,Haryana,Santali,5,8,30-50
+12-06-2022,Computers,Female,Puducherry,Bodo,26,30,30-50
+6/18/2022,Kids,Male,Daman and Diu,Tamil,6,15,30-50
+9/25/2022,Beauty,Female,Rajasthan,Kashmiri,27,6,18-30
+10/18/2022,Jewelry,Male,Maharashtra,Nepali,19,0,30-50
+7/15/2022,Health,Female,Kerala,Urdu,23,15,30-50
+03-10-2022,Jewelry,Female,Andaman and Nicobar,Oriya,6,25,30-50
+5/24/2022,Movies,Male,Goa,Telugu,26,11,30-50
+12-12-2022,Outdoors,Female,Meghalaya,Bangla,25,14,18-30
+3/29/2022,Clothing,Female,Gujarat,Assamese,10,2,18-30
+7/14/2022,Games,Female,Delhi,English,6,12,30-50
+12-11-2022,Industrial,Male,Uttarakhand,Bodo,30,23,18-30
+09-08-2022,Sports,Female,Telangana,Kannada,22,9,18-30
+9/16/2022,Games,Male,Nagaland,Hindi,8,26,18-30
+04-11-2022,Tools,Female,Chhattisgarh,Marathi,28,5,30-50
+12/25/2022,Outdoors,Male,Arunachal Pradesh,Gujarati,28,14,18-30
+03-08-2022,Sports,Female,West Bengal,Punjabi,13,15,18-30
+8/15/2022,Jewelry,Male,West Bengal,Konkani,7,10,30-50
+7/18/2022,Tools,Female,Uttarakhand,Dogri,28,9,18-30
+02-10-2022,Home,Male,Odisha,Sindhi,21,21,18-30
+10-11-2022,Games,Female,Karnataka,Marathi,30,24,18-30
+07-05-2022,Beauty,Female,Himachal Pradesh,Maithili,12,17,30-50
+10-06-2022,Computers,Male,Chhattisgarh,Dogri,26,9,18-30
+5/18/2022,Automotive,Male,Daman and Diu,Dogri,5,2,18-30
+2/15/2022,Health,Male,West Bengal,Kashmiri,15,20,18-30
+10/19/2022,Movies,Male,Manipur,Manipuri,14,10,30-50
+09-01-2022,Sports,Male,Kerala,Konkani,7,21,30-50
+08-05-2022,Shoes,Female,Jammu and Kashmir,Oriya,18,27,Below 18
+5/20/2022,Automotive,Female,Assam,Konkani,13,14,30-50
+11/25/2022,Books,Male,Manipur,Hindi,10,8,30-50
+7/19/2022,Beauty,Male,Delhi,Hindi,29,20,Below 18
+12/26/2022,Movies,Male,Meghalaya,Assamese,26,16,Below 18
+01-06-2022,Clothing,Female,Tripura,Bangla,20,21,Below 18
+12/27/2022,Computers,Female,Gujarat,Kashmiri,15,8,30-50
+04-02-2022,Kids,Male,Telangana,Sindhi,21,21,30-50
+9/19/2022,Garden,Male,Dadra and Nagar Haveli,Kashmiri,14,22,18-30
+07-09-2022,Tools,Male,Rajasthan,Sindhi,14,17,30-50
+6/17/2022,Games,Male,Tripura,Tamil,27,27,18-30
+06-11-2022,Shoes,Female,Punjab,Oriya,7,21,18-30
+10-11-2022,Electronics,Male,Lakshadweep,Dogri,13,4,18-30
+8/24/2022,Home,Male,Arunachal Pradesh,Urdu,30,27,30-50
+09-09-2022,Health,Male,Uttarakhand,Hindi,5,1,30-50
+11/18/2022,Grocery,Male,Daman and Diu,Nepali,20,3,30-50
+9/23/2022,Garden,Male,Karnataka,Urdu,8,19,30-50
+04-07-2022,Automotive,Female,Mizoram,Sindhi,22,25,Below 18
+10-09-2022,Tools,Male,Meghalaya,Assamese,24,15,18-30
+8/21/2022,Industrial,Male,Uttar Pradesh,Maithili,18,29,Below 18
+4/18/2022,Music,Male,Dadra and Nagar Haveli,Hindi,13,26,18-30
+07-10-2022,Kids,Female,Jharkhand,English,9,26,30-50
+6/22/2022,Baby,Male,Lakshadweep,English,28,28,Below 18
+05-11-2022,Shoes,Male,Uttarakhand,Maithili,5,2,30-50
+2/26/2022,Health,Male,Haryana,Oriya,7,20,30-50
+09-02-2022,Kids,Male,Himachal Pradesh,Urdu,18,26,30-50
+5/13/2022,Electronics,Female,West Bengal,Kashmiri,16,1,18-30
+1/18/2022,Grocery,Male,Puducherry,Santali,30,15,18-30
+11-05-2022,Garden,Female,Meghalaya,Malayalam,21,6,30-50
+07-02-2022,Outdoors,Male,Andaman and Nicobar,Kashmiri,6,16,Below 18
+07-04-2022,Toys,Male,Mizoram,Konkani,17,18,30-50
+6/18/2022,Jewelry,Male,Daman and Diu,Bodo,14,20,30-50
+10/27/2022,Clothing,Female,Lakshadweep,Kashmiri,27,5,Below 18
+11-12-2022,Garden,Female,Jammu and Kashmir,Kashmiri,30,30,30-50
+5/13/2022,Jewelry,Female,Meghalaya,Maithili,23,5,18-30
+03-09-2022,Clothing,Female,Dadra and Nagar Haveli,Konkani,30,25,30-50
+09-06-2022,Automotive,Male,Telangana,Dogri,25,2,30-50
+11-05-2022,Sports,Female,Mizoram,Assamese,9,13,18-30
+3/23/2022,Shoes,Male,Manipur,Punjabi,27,7,18-30
+11-10-2022,Beauty,Male,Jammu and Kashmir,Telugu,14,9,30-50
+11-06-2022,Kids,Male,Andhra Pradesh,Kannada,5,3,18-30
+07-02-2022,Automotive,Female,Delhi,Tamil,14,29,30-50
+6/18/2022,Electronics,Male,Mizoram,Assamese,17,21,30-50
+5/17/2022,Music,Female,Uttar Pradesh,Maithili,17,16,18-30
+9/23/2022,Baby,Male,Karnataka,Manipuri,27,1,Below 18
+06-09-2022,Tools,Male,Andaman and Nicobar,Urdu,27,25,18-30
+12/14/2022,Garden,Female,Puducherry,Kashmiri,22,12,30-50
+11-08-2022,Games,Male,Daman and Diu,Bodo,7,19,18-30
+07-02-2022,Garden,Female,Karnataka,Kannada,18,27,18-30
+7/14/2022,Music,Male,Daman and Diu,Marathi,17,12,18-30
+03-11-2022,Clothing,Male,Sikkim,Oriya,27,26,18-30
+12/23/2022,Garden,Female,Bihar,Punjabi,18,9,30-50
+07-05-2022,Clothing,Male,Punjab,Oriya,27,6,18-30
+04-09-2022,Music,Male,Manipur,English,22,18,18-30
+6/28/2022,Electronics,Male,Uttarakhand,Nepali,7,14,30-50
+5/24/2022,Automotive,Female,Delhi,Manipuri,15,15,Below 18
+04-05-2022,Industrial,Female,Jammu and Kashmir,Manipuri,26,9,30-50
+4/27/2022,Kids,Male,Meghalaya,Telugu,28,18,Below 18
+6/29/2022,Baby,Male,Telangana,Manipuri,11,13,Below 18
+7/29/2022,Beauty,Female,Chandigarh,Kannada,30,21,30-50
+2/13/2022,Home,Female,Assam,Kannada,5,16,18-30
+02-07-2022,Sports,Female,Jharkhand,Urdu,12,27,30-50
+10/17/2022,Grocery,Male,Madhya Pradesh,Maithili,19,18,18-30
+9/13/2022,Shoes,Female,Nagaland,English,23,18,18-30
+2/25/2022,Computers,Male,Meghalaya,Kannada,6,26,18-30
+7/27/2022,Industrial,Male,Maharashtra,English,16,17,Below 18
+6/28/2022,Automotive,Male,Arunachal Pradesh,Bangla,27,18,18-30
+6/14/2022,Music,Female,Jharkhand,Maithili,19,21,30-50
+8/13/2022,Garden,Female,Uttar Pradesh,Bodo,8,30,30-50
+11/24/2022,Computers,Male,Assam,Kashmiri,19,17,18-30
+11/18/2022,Jewelry,Female,Delhi,English,30,29,30-50
+1/25/2022,Books,Male,Telangana,Sindhi,6,15,30-50
+03-12-2022,Industrial,Male,Bihar,Oriya,20,0,18-30
+03-07-2022,Electronics,Female,Dadra and Nagar Haveli,Marathi,6,4,18-30
+09-12-2022,Electronics,Female,Arunachal Pradesh,Santali,12,27,18-30
+04-08-2022,Toys,Female,Karnataka,Kannada,7,17,18-30
+01-05-2022,Beauty,Female,Mizoram,Maithili,16,0,30-50
+8/17/2022,Jewelry,Female,Chandigarh,Urdu,14,10,30-50
+10/28/2022,Grocery,Female,Gujarat,Maithili,24,27,30-50
+9/29/2022,Baby,Male,Chandigarh,Telugu,9,4,30-50
+12/17/2022,Movies,Female,Himachal Pradesh,Sindhi,7,8,30-50
+3/14/2022,Electronics,Male,Andhra Pradesh,Sindhi,23,17,30-50
+5/27/2022,Music,Male,Andaman and Nicobar,Oriya,22,28,18-30
+06-01-2022,Industrial,Female,Kerala,Kashmiri,6,24,Below 18
+03-02-2022,Industrial,Male,Odisha,Bangla,30,10,30-50
+2/27/2022,Automotive,Male,Madhya Pradesh,Telugu,10,7,18-30
+9/22/2022,Beauty,Male,Tamil Nadu,Dogri,11,3,18-30
+07-12-2022,Health,Male,Daman and Diu,English,14,8,18-30
+4/28/2022,Industrial,Male,Tripura,Dogri,20,18,18-30
+5/22/2022,Toys,Male,Andaman and Nicobar,Kashmiri,25,14,30-50
+4/19/2022,Movies,Male,Karnataka,Assamese,6,19,30-50
+9/21/2022,Music,Female,Tamil Nadu,Assamese,26,30,18-30
+9/19/2022,Jewelry,Male,Andhra Pradesh,Dogri,21,29,18-30
+8/30/2022,Automotive,Male,Manipur,Bangla,13,2,18-30
+08-02-2022,Tools,Male,West Bengal,Punjabi,10,29,30-50
+08-04-2022,Industrial,Male,Arunachal Pradesh,Gujarati,23,9,18-30
+05-06-2022,Kids,Female,Karnataka,Bangla,26,3,30-50
+10/18/2022,Jewelry,Female,Puducherry,English,30,21,30-50
+8/15/2022,Electronics,Female,Andaman and Nicobar,Oriya,18,14,18-30
+10-08-2022,Health,Male,Andaman and Nicobar,Bangla,17,25,30-50
+9/27/2022,Beauty,Female,Meghalaya,Konkani,19,25,18-30
+02-12-2022,Music,Male,Rajasthan,Marathi,27,13,18-30
+9/28/2022,Outdoors,Female,Puducherry,Punjabi,5,1,Below 18
+1/29/2022,Beauty,Male,Telangana,Tamil,24,21,18-30
+06-03-2022,Electronics,Female,Manipur,Urdu,16,19,30-50
+07-08-2022,Garden,Female,Odisha,Telugu,12,4,30-50
+11-01-2022,Tools,Male,Haryana,Dogri,30,24,18-30
+10/25/2022,Games,Female,Chhattisgarh,Assamese,9,4,18-30
+8/17/2022,Sports,Female,Manipur,Sindhi,8,1,18-30
+06-12-2022,Kids,Male,Meghalaya,Oriya,17,27,30-50
+06-07-2022,Books,Female,Himachal Pradesh,Assamese,21,23,Below 18
+02-11-2022,Outdoors,Male,Assam,Maithili,15,23,18-30
+6/21/2022,Toys,Male,Kerala,Bodo,9,7,18-30
+8/21/2022,Automotive,Female,Mizoram,Maithili,14,10,18-30
+9/23/2022,Movies,Female,Rajasthan,Bangla,19,6,18-30
+11/24/2022,Games,Female,Rajasthan,Marathi,19,9,18-30
+1/14/2022,Shoes,Male,Manipur,Hindi,11,17,18-30
+07-10-2022,Electronics,Female,Jharkhand,Malayalam,8,21,18-30
+05-09-2022,Automotive,Male,Gujarat,Gujarati,8,10,Below 18
+04-06-2022,Jewelry,Female,Tripura,Dogri,28,17,30-50
+9/23/2022,Outdoors,Female,Rajasthan,Dogri,17,3,18-30
+12-11-2022,Industrial,Male,Andhra Pradesh,Telugu,11,28,18-30
+4/20/2022,Baby,Male,Andaman and Nicobar,Urdu,19,11,18-30
+1/15/2022,Grocery,Male,Chandigarh,Assamese,30,9,18-30
+1/24/2022,Clothing,Male,Himachal Pradesh,Konkani,26,30,30-50
+02-08-2022,Clothing,Male,Rajasthan,Hindi,14,24,Below 18
+11/27/2022,Games,Female,West Bengal,Assamese,11,4,30-50
+07-04-2022,Electronics,Male,Tamil Nadu,Konkani,5,1,18-30
+5/30/2022,Baby,Female,Rajasthan,Tamil,17,16,30-50
+06-01-2022,Games,Male,Bihar,Telugu,6,1,18-30
+6/27/2022,Garden,Male,Madhya Pradesh,Kashmiri,30,26,30-50
+04-01-2022,Music,Male,Assam,Bangla,5,21,18-30
+01-11-2022,Garden,Female,Jharkhand,Dogri,15,25,30-50
+2/23/2022,Games,Female,Bihar,Assamese,11,20,Below 18
+12-02-2022,Home,Female,Chandigarh,Konkani,26,1,30-50
+5/18/2022,Games,Female,Puducherry,Sindhi,22,28,Below 18
+3/29/2022,Movies,Male,Telangana,Maithili,14,24,30-50
+03-11-2022,Music,Female,Haryana,Bodo,5,23,30-50
+12/14/2022,Games,Female,Kerala,Gujarati,7,19,18-30
+6/20/2022,Toys,Male,Punjab,Tamil,8,25,Below 18
+7/24/2022,Industrial,Male,Maharashtra,Tamil,26,20,30-50
+6/20/2022,Electronics,Female,Andaman and Nicobar,Gujarati,9,23,30-50
+3/27/2022,Beauty,Male,Telangana,Kannada,30,18,30-50
+11-09-2022,Movies,Female,Manipur,Konkani,24,15,30-50
+02-01-2022,Garden,Male,Haryana,Santali,24,16,18-30
+07-03-2022,Sports,Female,Delhi,Tamil,20,29,18-30
+10/27/2022,Kids,Female,Chandigarh,Hindi,9,29,30-50
+10-09-2022,Electronics,Male,Odisha,Bodo,25,8,30-50
+3/22/2022,Kids,Female,Uttarakhand,Manipuri,16,3,30-50
+6/28/2022,Kids,Female,Assam,Santali,6,14,18-30
+4/21/2022,Beauty,Male,Bihar,Punjabi,9,10,30-50
+03-01-2022,Toys,Male,Tamil Nadu,Manipuri,22,0,18-30
+11/14/2022,Tools,Male,Rajasthan,English,21,12,18-30
+05-06-2022,Sports,Female,Telangana,Konkani,16,7,Below 18
+12-09-2022,Electronics,Male,Andhra Pradesh,Maithili,23,5,30-50
+7/17/2022,Music,Female,Puducherry,Assamese,11,21,18-30
+03-04-2022,Books,Female,Assam,Hindi,8,14,30-50
+11/15/2022,Music,Female,Rajasthan,Kashmiri,15,3,18-30
+09-10-2022,Games,Male,Uttar Pradesh,English,27,13,30-50
+4/26/2022,Sports,Male,Andaman and Nicobar,Urdu,25,22,Below 18
+07-01-2022,Garden,Male,Bihar,Santali,21,24,18-30
+3/27/2022,Home,Female,Arunachal Pradesh,Konkani,5,21,30-50
+02-07-2022,Shoes,Male,Madhya Pradesh,Konkani,10,28,18-30
+2/19/2022,Computers,Male,Sikkim,Manipuri,30,17,18-30
+01-05-2022,Clothing,Male,Telangana,Tamil,9,10,30-50
+3/15/2022,Beauty,Male,Sikkim,Malayalam,13,16,30-50
+3/13/2022,Computers,Male,Himachal Pradesh,Gujarati,8,26,18-30
+04-09-2022,Books,Female,Kerala,Bangla,6,22,30-50
+05-11-2022,Shoes,Female,Himachal Pradesh,Nepali,29,18,18-30
+5/14/2022,Home,Female,Himachal Pradesh,Marathi,14,30,30-50
+3/25/2022,Music,Male,Nagaland,Hindi,5,21,30-50
+2/26/2022,Garden,Male,Puducherry,Nepali,27,19,18-30
+5/17/2022,Shoes,Male,Uttar Pradesh,Kashmiri,25,12,18-30
+05-02-2022,Garden,Male,Kerala,Punjabi,24,23,30-50
+12-07-2022,Shoes,Male,Maharashtra,Punjabi,26,13,18-30
+04-04-2022,Health,Male,Telangana,Gujarati,17,19,18-30
+3/15/2022,Electronics,Male,Chhattisgarh,Oriya,16,9,18-30
+02-05-2022,Industrial,Male,Gujarat,Bodo,30,24,18-30
+05-04-2022,Computers,Male,Dadra and Nagar Haveli,Telugu,23,14,18-30
+01-06-2022,Shoes,Female,Andhra Pradesh,Gujarati,24,7,18-30
+07-08-2022,Games,Female,Meghalaya,Oriya,17,12,30-50
+3/14/2022,Toys,Female,Tripura,Bangla,15,11,18-30
+8/22/2022,Jewelry,Female,Dadra and Nagar Haveli,Nepali,15,20,18-30
+07-08-2022,Books,Female,Andaman and Nicobar,Marathi,25,15,18-30
+12/20/2022,Outdoors,Male,Assam,Telugu,5,20,30-50
+10-01-2022,Clothing,Male,Sikkim,Sindhi,17,8,30-50
+7/27/2022,Computers,Female,Karnataka,Sindhi,20,13,18-30
+04-07-2022,Toys,Male,Telangana,Tamil,27,10,18-30
+06-11-2022,Computers,Female,Gujarat,Dogri,17,30,30-50
+1/30/2022,Automotive,Male,Tripura,Kannada,16,17,18-30
+12-05-2022,Outdoors,Female,Andaman and Nicobar,Gujarati,18,13,30-50
+02-04-2022,Kids,Female,Haryana,Tamil,19,13,30-50
+2/14/2022,Computers,Female,Manipur,Maithili,27,28,30-50
+6/14/2022,Industrial,Female,Maharashtra,English,15,6,30-50
+07-04-2022,Home,Female,Mizoram,Malayalam,28,12,18-30
+04-02-2022,Jewelry,Male,Sikkim,Assamese,15,15,18-30
+12/18/2022,Baby,Female,Chhattisgarh,Bodo,15,9,Below 18
+1/15/2022,Beauty,Female,Maharashtra,Oriya,13,17,30-50
+2/26/2022,Automotive,Male,Sikkim,Kashmiri,18,22,30-50
+09-04-2022,Jewelry,Female,West Bengal,English,12,2,18-30
+10-11-2022,Movies,Female,Uttar Pradesh,Urdu,14,28,18-30
+4/15/2022,Industrial,Female,Madhya Pradesh,Marathi,24,30,30-50
+4/29/2022,Beauty,Female,Punjab,Bodo,10,26,Below 18
+6/27/2022,Shoes,Female,Gujarat,Bodo,6,3,30-50
+11/25/2022,Home,Female,West Bengal,Oriya,28,12,Below 18
+10-04-2022,Grocery,Male,Delhi,Punjabi,10,2,30-50
+4/17/2022,Grocery,Female,Uttar Pradesh,Kashmiri,7,8,30-50
+04-05-2022,Games,Male,West Bengal,Bodo,10,12,18-30
+8/18/2022,Music,Female,Punjab,English,26,12,30-50
+10/26/2022,Tools,Male,Goa,Oriya,14,15,30-50
+1/31/2022,Sports,Female,Arunachal Pradesh,Bangla,10,30,30-50
+9/26/2022,Movies,Male,Jammu and Kashmir,Hindi,9,6,Below 18
+6/28/2022,Clothing,Female,Puducherry,Kannada,28,9,18-30
+7/23/2022,Shoes,Male,Himachal Pradesh,Kashmiri,24,20,18-30
+10/20/2022,Books,Male,Goa,Konkani,19,30,30-50
+11/15/2022,Games,Female,Karnataka,Punjabi,23,22,30-50
+7/18/2022,Books,Male,Tripura,Tamil,21,7,18-30
+06-04-2022,Garden,Male,Delhi,Urdu,18,12,18-30
+3/21/2022,Music,Female,Himachal Pradesh,Kashmiri,29,23,30-50
+04-10-2022,Toys,Male,Nagaland,English,15,1,18-30
+3/28/2022,Shoes,Male,Madhya Pradesh,Punjabi,21,1,30-50
+03-05-2022,Computers,Female,Dadra and Nagar Haveli,Manipuri,8,1,Below 18
+05-11-2022,Automotive,Male,Chhattisgarh,Nepali,27,6,18-30
